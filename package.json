@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOFE2720/group66_lab5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SOFE2720/group66_lab5/issues"
+  },
+  "homepage": "https://github.com/SOFE2720/group66_lab5#readme"
 }
